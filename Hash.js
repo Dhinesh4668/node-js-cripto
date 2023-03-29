@@ -1,4 +1,4 @@
-const Crypto = require('crypto');
+const crypto = require('crypto');
 const key = Buffer.from('1234567890123456'); // 16 bytes key
 const iv = Buffer.alloc(0); // empty initialization vector for ECB mode
 

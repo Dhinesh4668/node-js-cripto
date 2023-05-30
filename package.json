@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "github.com/Dhinesh4668",
   "license": "ISC",
   "dependencies": {
+    "cripto": "^1.1.4",
     "nodemon": "^2.0.22",
     "prompt": "^1.3.0"
   }

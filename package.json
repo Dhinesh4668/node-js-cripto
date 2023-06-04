@@ -10,8 +10,11 @@
   "author": "github.com/Dhinesh4668",
   "license": "ISC",
   "dependencies": {
+    "aes-js": "^3.1.2",
     "cripto": "^1.1.4",
+    "crypto": "^1.0.1",
     "nodemon": "^2.0.22",
-    "prompt": "^1.3.0"
+    "prompt": "^1.3.0",
+    "twofish": "^1.0.1"
   }
 }
